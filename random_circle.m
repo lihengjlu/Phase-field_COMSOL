@@ -1,5 +1,5 @@
 function out = random_circle
-% Model created on Apr 11 2020,  by COMSOL 5.5.
+
 import com.comsol.model.*
 import com.comsol.model.util.*
 model = ModelUtil.create('Model');
