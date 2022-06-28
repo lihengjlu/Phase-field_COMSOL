@@ -1,2 +1,2 @@
-1. 在“COMSOL Multiphysics 5.6 with MATLAB”中运行代码
-2. 在COMSOL Multiphysics 5.6中打开生成的mph文件
+1.Run COMSOL Multiphysics 5.6 with MATLAB
+2.Open the MPH file in COMSOL Multiphysics 5.6
